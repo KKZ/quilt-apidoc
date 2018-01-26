@@ -1,0 +1,4 @@
+<map id="org.interledger.InterledgerAddress.isRootPrefix" name="org.interledger.InterledgerAddress.isRootPrefix">
+<area shape="rect" id="node2" href="$db/d35/interfaceorg_1_1interledger_1_1_interledger_address.html#a4790eb4e44df9b71949b0a303fca7f07" title="org.interledger.Interledger\lAddress.getParentPrefix" alt="" coords="264,29,475,68"/>
+<area shape="rect" id="node3" href="$db/d35/interfaceorg_1_1interledger_1_1_interledger_address.html#afe1b2832661752ef6c372326a8b0b924" title="org.interledger.Interledger\lAddress.hasParentPrefix" alt="" coords="264,92,475,131"/>
+</map>

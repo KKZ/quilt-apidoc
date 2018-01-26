@@ -1,0 +1,4 @@
+<map id="org.interledger.codecs.QuoteByDestinationAmountResponseCodec" name="org.interledger.codecs.QuoteByDestinationAmountResponseCodec">
+<area shape="rect" id="node3" href="$df/d6c/classorg_1_1interledger_1_1codecs_1_1oer_1_1ilqp_1_1_quote_by_destination_amount_response_oer_codec.html" title="org.interledger.codecs.oer.ilqp.\lQuoteByDestinationAmountResponseOerCodec" alt="" coords="629,12,932,51"/>
+<area shape="rect" id="node2" href="$d4/d42/interfaceorg_1_1interledger_1_1codecs_1_1_interledger_packet_codec.html" title="org.interledger.codecs.Interledger\lPacketCodec\&lt; QuoteByDestinationAmount\lResponse \&gt;" alt="" coords="5,5,287,57"/>
+</map>

@@ -1,0 +1,28 @@
+var interfaceorg_1_1interledger_1_1ilp_1_1_interledger_protocol_error_1_1_error_code =
+[
+    [ "Builder", "de/dcb/classorg_1_1interledger_1_1ilp_1_1_interledger_protocol_error_1_1_error_code_1_1_builder.html", "de/dcb/classorg_1_1interledger_1_1ilp_1_1_interledger_protocol_error_1_1_error_code_1_1_builder" ],
+    [ "ErrorFamily", "d6/dab/enumorg_1_1interledger_1_1ilp_1_1_interledger_protocol_error_1_1_error_code_1_1_error_family.html", "d6/dab/enumorg_1_1interledger_1_1ilp_1_1_interledger_protocol_error_1_1_error_code_1_1_error_family" ],
+    [ "getCode", "d2/d91/interfaceorg_1_1interledger_1_1ilp_1_1_interledger_protocol_error_1_1_error_code.html#ab9e175c773eb3334ef4dcaa7c1bc6f8b", null ],
+    [ "getErrorFamily", "d2/d91/interfaceorg_1_1interledger_1_1ilp_1_1_interledger_protocol_error_1_1_error_code.html#aae571db8714aa4fcf6b561d338d31d5b", null ],
+    [ "getName", "d2/d91/interfaceorg_1_1interledger_1_1ilp_1_1_interledger_protocol_error_1_1_error_code.html#a76eafb905a573918d8228949841e0d34", null ],
+    [ "F00_BAD_REQUEST", "d2/d91/interfaceorg_1_1interledger_1_1ilp_1_1_interledger_protocol_error_1_1_error_code.html#a87ec3b0b40b6e5f0213c4146cf8f844a", null ],
+    [ "F01_INVALID_PACKET", "d2/d91/interfaceorg_1_1interledger_1_1ilp_1_1_interledger_protocol_error_1_1_error_code.html#a2f38f78145239b5add1de241993f8b60", null ],
+    [ "F02_UNREACHABLE", "d2/d91/interfaceorg_1_1interledger_1_1ilp_1_1_interledger_protocol_error_1_1_error_code.html#adb9979fc529ed7e29ddd53c3088de14f", null ],
+    [ "F03_INVALID_AMOUNT", "d2/d91/interfaceorg_1_1interledger_1_1ilp_1_1_interledger_protocol_error_1_1_error_code.html#ac17badcfec4d3ac94cabd4b678ac63c3", null ],
+    [ "F04_INSUFFICIENT_DST_AMOUNT", "d2/d91/interfaceorg_1_1interledger_1_1ilp_1_1_interledger_protocol_error_1_1_error_code.html#a385ab65bb1e0a134e79afa526f41ca9b", null ],
+    [ "F05_WRONG_CONDITION", "d2/d91/interfaceorg_1_1interledger_1_1ilp_1_1_interledger_protocol_error_1_1_error_code.html#a5cfe5ea3a36155b64764325497a652fa", null ],
+    [ "F06_UNEXPECTED_PAYMENT", "d2/d91/interfaceorg_1_1interledger_1_1ilp_1_1_interledger_protocol_error_1_1_error_code.html#a9db1f4b458829c5fb6ce877b7612fd7f", null ],
+    [ "F07_CANNOT_RECEIVE", "d2/d91/interfaceorg_1_1interledger_1_1ilp_1_1_interledger_protocol_error_1_1_error_code.html#a8e6c2f8704c8da749efbe2a8cd3554bd", null ],
+    [ "F99_APPLICATION_ERROR", "d2/d91/interfaceorg_1_1interledger_1_1ilp_1_1_interledger_protocol_error_1_1_error_code.html#a45483e7ec9bb11344f70b0cc88bcc790", null ],
+    [ "R00_TRANSFER_TIMED_OUT", "d2/d91/interfaceorg_1_1interledger_1_1ilp_1_1_interledger_protocol_error_1_1_error_code.html#ab54e987bdd9ed35566e5bea8748cacd8", null ],
+    [ "R01_INSUFFICIENT_SOURCE_AMOUNT", "d2/d91/interfaceorg_1_1interledger_1_1ilp_1_1_interledger_protocol_error_1_1_error_code.html#a451b415076fc07af7d10dc19a580990c", null ],
+    [ "R02_INSUFFICIENT_TIMEOUT", "d2/d91/interfaceorg_1_1interledger_1_1ilp_1_1_interledger_protocol_error_1_1_error_code.html#aebb0f186259904661191cdfe5f55e10c", null ],
+    [ "R99_APPLICATION_ERROR", "d2/d91/interfaceorg_1_1interledger_1_1ilp_1_1_interledger_protocol_error_1_1_error_code.html#a5936a637440df761aa53f44ef0187db0", null ],
+    [ "T00_INTERNAL_ERROR", "d2/d91/interfaceorg_1_1interledger_1_1ilp_1_1_interledger_protocol_error_1_1_error_code.html#a5ebb4095a527c21324bc8ad478b4f44a", null ],
+    [ "T01_LEDGER_UNREACHABLE", "d2/d91/interfaceorg_1_1interledger_1_1ilp_1_1_interledger_protocol_error_1_1_error_code.html#a9f6865dda060d484b85a29728b442160", null ],
+    [ "T02_LEDGER_BUSY", "d2/d91/interfaceorg_1_1interledger_1_1ilp_1_1_interledger_protocol_error_1_1_error_code.html#a9d82ce7e9ea59b547794a1caf1ce9d06", null ],
+    [ "T03_CONNECTOR_BUSY", "d2/d91/interfaceorg_1_1interledger_1_1ilp_1_1_interledger_protocol_error_1_1_error_code.html#a7d9731e52c9ad5062d0279879bd5556b", null ],
+    [ "T04_INSUFFICIENT_LIQUIDITY", "d2/d91/interfaceorg_1_1interledger_1_1ilp_1_1_interledger_protocol_error_1_1_error_code.html#aec7a877f0b9ab3b441bb55ded3252275", null ],
+    [ "T05_RATE_LIMITED", "d2/d91/interfaceorg_1_1interledger_1_1ilp_1_1_interledger_protocol_error_1_1_error_code.html#a3e1b36e8f0b4891043be252ea3235023", null ],
+    [ "T99_APPLICATION_ERROR", "d2/d91/interfaceorg_1_1interledger_1_1ilp_1_1_interledger_protocol_error_1_1_error_code.html#a4290cdb946d2b2a519af15e215e2a2d8", null ]
+];

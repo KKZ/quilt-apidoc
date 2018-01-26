@@ -1,0 +1,4 @@
+<map id="org.interledger.codecs.oer.ilp.FulfillmentOerCodec" name="org.interledger.codecs.oer.ilp.FulfillmentOerCodec">
+<area shape="rect" id="node2" href="$d6/d24/interfaceorg_1_1interledger_1_1codecs_1_1_fulfillment_codec.html" title="org.interledger.codecs.Fulfillment\lCodec" alt="" coords="5,92,265,131"/>
+<area shape="rect" id="node3" href="$d9/d6a/interfaceorg_1_1interledger_1_1codecs_1_1_codec.html" title="org.interledger.codecs.Codec\l\&lt; Fulfillment \&gt;" alt="" coords="26,5,245,44"/>
+</map>

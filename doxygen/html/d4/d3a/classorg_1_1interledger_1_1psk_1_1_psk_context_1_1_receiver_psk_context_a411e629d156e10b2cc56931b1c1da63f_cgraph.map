@@ -1,0 +1,6 @@
+<map id="org.interledger.psk.PskContext.ReceiverPskContext.generateReceiverAddress" name="org.interledger.psk.PskContext.ReceiverPskContext.generateReceiverAddress">
+<area shape="rect" id="node2" href="$db/d35/interfaceorg_1_1interledger_1_1_interledger_address.html#a4f3550ee51f873e90131a5da175c92c9" title="org.interledger.Interledger\lAddress.with" alt="" coords="320,33,531,72"/>
+<area shape="rect" id="node3" href="$db/d35/interfaceorg_1_1interledger_1_1_interledger_address.html#af1d0a73e52fb16dca2a35db13d610b39" title="org.interledger.Interledger\lAddress.getValue" alt="" coords="837,5,1048,44"/>
+<area shape="rect" id="node4" href="$db/d35/interfaceorg_1_1interledger_1_1_interledger_address.html#a869ca1879b6525202f26193071776446" title="org.interledger.Interledger\lAddress.isLedgerPrefix" alt="" coords="579,33,789,72"/>
+<area shape="rect" id="node5" href="$db/d35/interfaceorg_1_1interledger_1_1_interledger_address.html#a191bcc12bbf245b558e9b99a514c8187" title="org.interledger.Interledger\lAddress.of" alt="" coords="579,96,789,135"/>
+</map>

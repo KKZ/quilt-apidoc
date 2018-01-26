@@ -1,0 +1,4 @@
+var classorg_1_1interledger_1_1codecs_1_1packettypes_1_1_quote_by_source_amount_response_packet_type =
+[
+    [ "QuoteBySourceAmountResponsePacketType", "d9/de4/classorg_1_1interledger_1_1codecs_1_1packettypes_1_1_quote_by_source_amount_response_packet_type.html#aad623e6b51151c74070dd1b562f69077", null ]
+];

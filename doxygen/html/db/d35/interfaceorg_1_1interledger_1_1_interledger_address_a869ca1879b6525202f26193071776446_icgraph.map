@@ -1,0 +1,8 @@
+<map id="org.interledger.InterledgerAddress.isLedgerPrefix" name="org.interledger.InterledgerAddress.isLedgerPrefix">
+<area shape="rect" id="node2" href="$db/d35/interfaceorg_1_1interledger_1_1_interledger_address.html#afe3ae85f9b8b99b01338c0c16ca1a7ca" title="org.interledger.Interledger\lAddress.requireAddressPrefix" alt="" coords="274,5,493,44"/>
+<area shape="rect" id="node3" href="$db/d35/interfaceorg_1_1interledger_1_1_interledger_address.html#a18417104b734e5e2016368392bb8bad6" title="org.interledger.Interledger\lAddress.requireNotAddressPrefix" alt="" coords="264,68,503,107"/>
+<area shape="rect" id="node4" href="$db/d35/interfaceorg_1_1interledger_1_1_interledger_address.html#a4f3550ee51f873e90131a5da175c92c9" title="org.interledger.Interledger\lAddress.with" alt="" coords="278,131,489,169"/>
+<area shape="rect" id="node6" href="$db/d35/interfaceorg_1_1interledger_1_1_interledger_address.html#ab752008fcfc6ee24db3c1f7b29986d2e" title="org.interledger.Interledger\lAddress.getPrefix" alt="" coords="278,193,489,232"/>
+<area shape="rect" id="node7" href="$db/d35/interfaceorg_1_1interledger_1_1_interledger_address.html#a4790eb4e44df9b71949b0a303fca7f07" title="org.interledger.Interledger\lAddress.getParentPrefix" alt="" coords="579,237,789,276"/>
+<area shape="rect" id="node5" href="$d4/d3a/classorg_1_1interledger_1_1psk_1_1_psk_context_1_1_receiver_psk_context.html#a411e629d156e10b2cc56931b1c1da63f" title="org.interledger.psk.PskContext.\lReceiverPskContext.generateReceiver\lAddress" alt="" coords="551,124,817,176"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="org.interledger.codecs.InterledgerProtocolErrorCodec" name="org.interledger.codecs.InterledgerProtocolErrorCodec">
+<area shape="rect" id="node3" href="$d9/d71/classorg_1_1interledger_1_1codecs_1_1oer_1_1ilp_1_1_interledger_protocol_protocol_error_oer_codec.html" title="org.interledger.codecs.oer.ilp.\lInterledgerProtocolProtocolErrorOerCodec" alt="" coords="5,179,308,217"/>
+<area shape="rect" id="node2" href="$d4/d42/interfaceorg_1_1interledger_1_1codecs_1_1_interledger_packet_codec.html" title="org.interledger.codecs.Interledger\lPacketCodec\&lt; InterledgerProtocolError \&gt;" alt="" coords="9,5,304,44"/>
+</map>

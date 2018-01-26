@@ -1,0 +1,4 @@
+var classorg_1_1interledger_1_1codecs_1_1packettypes_1_1_quote_by_destination_amount_request_packet_type =
+[
+    [ "QuoteByDestinationAmountRequestPacketType", "d6/d90/classorg_1_1interledger_1_1codecs_1_1packettypes_1_1_quote_by_destination_amount_request_packet_type.html#adb26709838e44753be28fe3c5ccd7235", null ]
+];

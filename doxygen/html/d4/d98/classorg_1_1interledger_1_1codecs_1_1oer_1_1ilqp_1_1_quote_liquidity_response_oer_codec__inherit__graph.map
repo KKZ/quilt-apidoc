@@ -1,0 +1,4 @@
+<map id="org.interledger.codecs.oer.ilqp.QuoteLiquidityResponseOerCodec" name="org.interledger.codecs.oer.ilqp.QuoteLiquidityResponseOerCodec">
+<area shape="rect" id="node2" href="$dd/d60/interfaceorg_1_1interledger_1_1codecs_1_1_quote_liquidity_response_codec.html" title="org.interledger.codecs.Quote\lLiquidityResponseCodec" alt="" coords="37,92,255,131"/>
+<area shape="rect" id="node3" href="$d4/d42/interfaceorg_1_1interledger_1_1codecs_1_1_interledger_packet_codec.html" title="org.interledger.codecs.Interledger\lPacketCodec\&lt; QuoteLiquidityResponse \&gt;" alt="" coords="5,5,287,44"/>
+</map>

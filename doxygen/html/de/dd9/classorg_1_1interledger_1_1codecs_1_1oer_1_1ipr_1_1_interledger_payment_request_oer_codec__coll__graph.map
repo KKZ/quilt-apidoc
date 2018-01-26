@@ -1,0 +1,4 @@
+<map id="org.interledger.codecs.oer.ipr.InterledgerPaymentRequestOerCodec" name="org.interledger.codecs.oer.ipr.InterledgerPaymentRequestOerCodec">
+<area shape="rect" id="node2" href="$dd/dc2/interfaceorg_1_1interledger_1_1codecs_1_1_interledger_payment_request_codec.html" title="org.interledger.codecs.Interledger\lPaymentRequestCodec" alt="" coords="5,92,265,131"/>
+<area shape="rect" id="node3" href="$d9/d6a/interfaceorg_1_1interledger_1_1codecs_1_1_codec.html" title="org.interledger.codecs.Codec\l\&lt; InterledgerPaymentRequest \&gt;" alt="" coords="23,5,248,44"/>
+</map>

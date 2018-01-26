@@ -1,0 +1,4 @@
+<map id="org.interledger.codecs.CodecContext.read" name="org.interledger.codecs.CodecContext.read">
+<area shape="rect" id="node2" href="$d9/d84/interfaceorg_1_1interledger_1_1codecs_1_1packettypes_1_1_interledger_packet_type.html#ab92e4d5270959f3279b28e4d528f6f39" title="org.interledger.codecs.packettypes.\lInterledgerPacketType.fromTypeId" alt="" coords="272,5,539,44"/>
+<area shape="rect" id="node3" href="$da/da0/classorg_1_1interledger_1_1codecs_1_1_codec_context.html#a71d70332b7f6b9dc62f69022fcd8f78a" title="org.interledger.codecs.Codec\lContext.read" alt="" coords="296,68,515,107"/>
+</map>
